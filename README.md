@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachi00&label=Profile%20views&color=0e75b6&style=flat" alt="prachi00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachi00" alt="prachi00" /></a> </p>
-
 - 📫 How to reach me **prachirai00@gmail.com**
+
+- ⚡ Fun fact **I secretly want to move to Jupiter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

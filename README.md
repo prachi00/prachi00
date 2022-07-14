@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Caching with Redis in a simple Next.js App](https://prachirai.medium.com/caching-with-redis-in-a-simple-next-js-app-505ce42c648c?source=rss-cf2f865b371a------2)
+- [Improve your pull requests with Github templates](https://prachirai.medium.com/improve-your-pull-requests-with-github-templates-e351db951e11?source=rss-cf2f865b371a------2)
+- [Highlight specific part of a component in React](https://prachirai.medium.com/highlight-specific-part-of-a-component-in-react-75898fe89760?source=rss-cf2f865b371a------2)
+- [Making a PWA app with Next.js](https://prachirai.medium.com/making-a-pwa-app-with-next-js-a5009331f833?source=rss-cf2f865b371a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

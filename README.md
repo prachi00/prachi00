@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why You Might Not Need an Effect: Optimizing React Components](https://prachirai.medium.com/why-you-might-not-need-an-effect-optimizing-react-components-703792738ba3?source=rss-cf2f865b371a------2)
 - [My journey as a developer at Kodadot](https://blog.kodadot.xyz/my-journey-as-a-developer-at-kodadot-b2b1d48afc9f?source=rss-cf2f865b371a------2)
 - [Skeleton Widget Without Any Package in Flutter](https://prachirai.medium.com/skeleton-widget-without-any-package-in-flutter-f1c01fa671a0?source=rss-cf2f865b371a------2)
 - [Caching with Redis in a simple Next.js App](https://prachirai.medium.com/caching-with-redis-in-a-simple-next-js-app-505ce42c648c?source=rss-cf2f865b371a------2)
-- [Improve your pull requests with Github templates](https://prachirai.medium.com/improve-your-pull-requests-with-github-templates-e351db951e11?source=rss-cf2f865b371a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
